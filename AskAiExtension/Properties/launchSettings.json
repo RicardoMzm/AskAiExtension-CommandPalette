@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AskAiExtension (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AskAiExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

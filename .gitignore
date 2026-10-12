@@ -1,0 +1,29 @@
+# ---- 构建输出 ----
+[Bb]in/
+[Oo]bj/
+AppPackages/
+BundleArtifacts/
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+
+# ---- Visual Studio ----
+.vs/
+*.user
+*.suo
+*.sln.docstates
+UpgradeLog.htm
+UpgradeLog*.XML
+Backup/
+
+# ---- 本地/工具私有配置 ----
+.claude/settings.local.json
+Properties/PublishProfiles/*.pubxml.user
+
+# ---- 杂项 ----
+*.log
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
